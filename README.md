@@ -1,3 +1,6 @@
+### Hi there 👋
+- 🔭 I'm a DBA 
+
 
 ### Languages
 
@@ -8,6 +11,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+
 
 ### Technologies
 
@@ -17,6 +22,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Thanos](https://img.shields.io/badge/-Thanos-000?&logo=Thanos)
+![Alertmanager](https://img.shields.io/badge/-Alertmanager-000?&logo=Alertmanager)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Elastic](https://img.shields.io/badge/-Elastic-000?&logo=Elastic)
 
 
 ### Full Stack Projects
