@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 
+
 ### Hi there 👋
 - 🔭 I'm a DBA 
 - 🔭 I’m currently working on **MongoDB operation**
@@ -22,7 +23,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-
 
 ### Technologies
 
