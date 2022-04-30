@@ -16,7 +16,6 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -28,6 +27,20 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Elastic](https://img.shields.io/badge/-Elastic-000?&logo=Elastic)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+![Ngnix](https://img.shields.io/badge/-Ngnix-000?&logo=Ngnix)
+![Rundeck](https://img.shields.io/badge/-Rundeck-000?&logo=Rundeck)
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ### Full Stack Projects
