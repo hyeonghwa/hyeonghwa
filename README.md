@@ -55,6 +55,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
     <a href="https://www.rundeck.com/" target="_blank"> <img src="https://www.rundeck.com/hubfs/Assets/website/rundeck-by-pagerduty.svg" alt="Rundeck" width="40" height="40"/> </a> 
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.jenkins.io/images/logos/jenkins/Jenkins-stop-the-war.svg" alt="Jenkins" width="40" height="40"/> </a> 
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.ansible.com/hubfs/Logo-Red_Hat-Ansible-A-Reverse-SVG.svg" alt="ansible" width="40" height="40"/> </a> 
+    <a href="https://thanos.io/" target="_blank"> <img src="https://thanos.io/icon-dark.png" alt="thanos" width="40" height="40"/> </a> 
 
 </p>
 
