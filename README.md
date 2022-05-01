@@ -19,8 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 
 ### Technologies
 
